@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment03_2819750</string>
+
+    <string name="time">Time(s): </string>
+    <string name="speed">Speed(km/h): </string>
+    <string name="currentAverage">Current Average(km/h): </string>
+    <string name="overallAverage">Overall Average(km/h): </string>
+    <string name="action_settings">Settings</string>
+</resources>
